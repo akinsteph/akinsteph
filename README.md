@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**akinsteph/akinsteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**akinsteph/Stephen** is human, welcome to my GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Structure and Algorithms/React/Cloud Engineering
@@ -14,6 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to cook
 
-**akinsteph/akinsteph** is a sparkles emoji special sparkles emoji repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
