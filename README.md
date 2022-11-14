@@ -3,7 +3,7 @@
 
 **akinsteph/Stephen** is human, welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on E-Commerce Web Platform with APIs for IOS and Andriod Apps integration using WordPress
 - 🌱 I’m currently learning Data Structure and Algorithms/React/Cloud Engineering
 - 👯 I’m looking to collaborate on React Based projects/building porfolio websites
 - 🤔 I’m looking for help with getting opportunities in Cloud Engineering
