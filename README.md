@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Akinola
 =======================================================================================================================================
 
-PHP Coder, WordPress Hacker, Fullstack Web Developer
-----------------------------------------------------
+PHP Coder, WordPress Hacker, JavaScript Developer and Fullstack Web Developer
+-----------------------------------------------------------------------------
 
 Stephen (pronounced Ste-f-in) is an experienced Fullstack web developer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for Frontend development, Backend development, or Full-stack development. He loves to network and connect with people from walks of life. He is passionate about computer science; he believes he can use his technical skills to impact this world significantly. Proficient: JavaScript, PHP, SQL, WordPress, Drupal, OpenCart, ReactJS, TailwindCSS, Bootstrap, HTML/CSS NodeJs, MongoDB. Familiar: with Jira, Miro and even prototyping softwares like Figma, Invision and Adobe XD.
 
