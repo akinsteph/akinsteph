@@ -9,7 +9,7 @@ Stephen (pronounced Ste-f-in) is an experienced Fullstack web developer with in-
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [akinolastephen.com](http://akinolastephen.com)
 * ✉️  You can contact me at [iamakinolastephen@gmail.com](mailto:iamakinolastephen@gmail.com)
-* 🚀  I'm currently working on [Maddox - A Web App for an international Art Gallery](http://ec2-13-43-43-77.eu-west-2.compute.amazonaws.com:3000)
+* 🚀  I'm currently working on [Maddox - A Web App for an international Art Gallery]
 * 🧠  I'm learning System Architecture Principles, Data Structure and Algorithms/React/Cloud Engineering
 * 🤝  I'm open to collaborating on PHP/WordPress customisation projects for Large, medium and small scale business with special needs 
 * 😄   Pronouns: He/Him
