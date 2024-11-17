@@ -7,12 +7,12 @@ PHP Coder, WordPress Hacker, JavaScript Developer and Fullstack Web Developer Re
 Stephen (pronounced Ste-f-in) is an experienced Fullstack web developer with in-depth knowledge of various technologies and tools. He is looking for opportunities in Software Engineering with a preference for Frontend development, Backend development, or Full-stack development. He loves to network and connect with people from walks of life. He is passionate about computer science; he believes he can use his technical skills to impact this world significantly. Proficient: JavaScript, PHP, SQL, WordPress, Drupal, OpenCart, ReactJS, TailwindCSS, Bootstrap, HTML/CSS NodeJs, MongoDB. Familiar: with Jira, Miro and even prototyping softwares like Figma, Invision and Adobe XD.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [akinolastephen.com](http://akinolastephen.com)
+* 🖥️  See my portfolio at [stephenakinola.me](http://stephenakinola.me)
 * ✉️  You can contact me at [iamakinolastephen@gmail.com](mailto:iamakinolastephen@gmail.com)
 * 🚀  I'm currently working on [UWC - United World Colleges website]
 * 🧠  I'm learning System Architecture Principles, Data Structure and Algorithms/React/Cloud Engineering
-* 🤝  I'm open to collaborating on PHP/WordPress customisation projects for Large, medium and small scale business with special needs 
-* 😄   Pronouns: He/Him
+* 🤝  I'm open to collaborating on projects for Large, medium and small scale products meeting special needs 
+* 😄  Pronouns: He/Him
 * ⚡  Fun fact: I enjoying cook as much as I enjoy eating
 
 ### Skills
