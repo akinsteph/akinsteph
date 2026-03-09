@@ -9,7 +9,7 @@ Stephen (pronounced Ste-f-in) is an experienced Fullstack web developer with in-
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [stephenakinola.me](http://stephenakinola.me)
 * ✉️  You can contact me at [iamakinolastephen@gmail.com](mailto:iamakinolastephen@gmail.com)
-* 🚀  I'm currently working on [UWC - United World Colleges website]
+* 🚀  I'm currently working on [WP Rocket Addons]
 * 🧠  I'm learning System Architecture Principles, Data Structure and Algorithms/React/Cloud Engineering
 * 🤝  I'm open to collaborating on projects for Large, medium and small scale products meeting special needs 
 * 😄  Pronouns: He/Him
